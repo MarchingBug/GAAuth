@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "GAAuth": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7023",
+      "launchBrowser": false
+    }
+  }
+}

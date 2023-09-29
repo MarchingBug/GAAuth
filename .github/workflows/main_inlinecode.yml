@@ -39,4 +39,4 @@ jobs:
           app-name: 'inlinecode'
           slot-name: 'Production'
           package: '${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}/output'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6949C81461A34A228EC3FC4156D0A0A9 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_70DDA3C161784E518E88842EB668C3F9 }}
